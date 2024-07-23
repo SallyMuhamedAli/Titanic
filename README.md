@@ -5,7 +5,7 @@
 3. You built and tested several predictive models, including:
    - An SVM model using a linear kernel, which achieved an accuracy of 77.65%
    - An SVM model using a polynomial  kernel, which achieved an accuracy of 81.63%
-   - An SVR model using a polynomial   kernel, which achieved an accuracy of 22.12%
+   - An SVR model using a polynomial   kernel, which achieved an accuracy of 22.12% 
    - and more ather in Notebook 
 4. Before building the models, you performed Dummification to convert some non-numerical features into numerical representations.
 
