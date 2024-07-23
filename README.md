@@ -1,4 +1,4 @@
-## Let me summarize what I've understood:
+## Let me summarize what I've happened  :
 
 1. You worked on the data of survivors from the famous Titanic ship disaster.
 2. Your goal was to identify the passenger classes most likely to have survived that incident.
@@ -11,4 +11,4 @@
 
 This provides a clearer picture of the steps you took in this project. It seems you experimented with comparing different SVM models, and the model using the polynomial kernel was the most suitable for the Titanic disaster data.
 
-Do you have any other observations or questions regarding this project? I'm happy to assist with any part of it.
+
